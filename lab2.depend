@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1556641086 source:c:\1\Ó÷¸áà\2 ñåì\lab2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<MSBoardTextView.h>
+	<MinesweeperBoard.h>
+	<MSSFMLView.h>
+	<MinesweeperController.h>
+	<IntroView.h>
+
+1554056170 c:\1\Ó÷¸áà\2 ñåì\lab2\include\msboardtextview.h
+	<MinesweeperBoard.h>
+
+1556636958 c:\1\Ó÷¸áà\2 ñåì\lab2\include\minesweeperboard.h
+
+1556636972 source:c:\1\Ó÷¸áà\2 ñåì\lab2\src\minesweeperboard.cpp
+	"MinesweeperBoard.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1554056170 source:c:\1\Ó÷¸áà\2 ñåì\lab2\src\msboardtextview.cpp
+	"MSBoardTextView.h"
+	<iostream>
+
+1554055597 source:c:\1\Ó÷¸áà\2 ñåì\lab2\src\mstextcontroller.cpp
+	<iostream>
+	"MSTextController.h"
+
+1554053378 c:\1\Ó÷¸áà\2 ñåì\lab2\include\mstextcontroller.h
+	<MSBoardTextView.h>
+	<MinesweeperBoard.h>
+
+1556637099 source:c:\1\Ó÷¸áà\2 ñåì\lab2\src\mssfmlview.cpp
+	"MSSFMLView.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556539210 c:\1\Ó÷¸áà\2 ñåì\lab2\include\mssfmlview.h
+	<SFML/Graphics.hpp>
+	<MinesweeperBoard.h>
+
+1555957753 source:c:\1\Ó÷¸áà\2 ñåì\lab2\src\minesweepercontroller.cpp
+	"MinesweeperController.h"
+	<iostream>
+
+1555956527 c:\1\Ó÷¸áà\2 ñåì\lab2\include\minesweepercontroller.h
+	<SFML/Graphics.hpp>
+	"MSSFMLView.h"
+	<MinesweeperBoard.h>
+
+1556544044 source:c:\1\Ó÷¸áà\2 ñåì\lab2\src\introview.cpp
+	"IntroView.h"
+	<cstdlib>
+
+1556543361 c:\1\Ó÷¸áà\2 ñåì\lab2\include\introview.h
+	<SFML/Graphics.hpp>
+
